@@ -28,7 +28,7 @@ const MainPage = (props) =>{
     return(
         <div className={classes.centalview}>
             <div>
-                <Typography variant="h3">Kongu Intergrated Farm</Typography>
+                <Typography variant="h3">Kongu Intergrated Farm(Modified Page)</Typography>
                 <Button endIcon={<ArrowForwardRoundedIcon />} className={classes.button} variant="contained">Let's Start</Button>                
             </div>
         </div>
