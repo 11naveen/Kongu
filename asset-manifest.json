@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kongu/static/css/main.252c1b9d.chunk.css",
+    "main.js": "/Kongu/static/js/main.63f523d4.chunk.js",
+    "main.js.map": "/Kongu/static/js/main.63f523d4.chunk.js.map",
+    "runtime-main.js": "/Kongu/static/js/runtime-main.abc1fb06.js",
+    "runtime-main.js.map": "/Kongu/static/js/runtime-main.abc1fb06.js.map",
+    "static/js/2.9e725e68.chunk.js": "/Kongu/static/js/2.9e725e68.chunk.js",
+    "static/js/2.9e725e68.chunk.js.map": "/Kongu/static/js/2.9e725e68.chunk.js.map",
+    "static/js/3.98e49444.chunk.js": "/Kongu/static/js/3.98e49444.chunk.js",
+    "static/js/3.98e49444.chunk.js.map": "/Kongu/static/js/3.98e49444.chunk.js.map",
+    "index.html": "/Kongu/index.html",
+    "static/css/main.252c1b9d.chunk.css.map": "/Kongu/static/css/main.252c1b9d.chunk.css.map",
+    "static/js/2.9e725e68.chunk.js.LICENSE.txt": "/Kongu/static/js/2.9e725e68.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Kongu/static/media/Montserrat-Regular.3cd78665.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abc1fb06.js",
+    "static/js/2.9e725e68.chunk.js",
+    "static/css/main.252c1b9d.chunk.css",
+    "static/js/main.63f523d4.chunk.js"
+  ]
+}
